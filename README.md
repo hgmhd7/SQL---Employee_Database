@@ -1,3 +1,3 @@
-# SQL---Employee_Database
+# SQL Employee Database
 
-A database of employees and created from CSV files and some quires/ data visualizations derived from the data set.
+Here I created a sample PostgreSQL database of employees from CSV files and performed data visualizations from the queried data set..
